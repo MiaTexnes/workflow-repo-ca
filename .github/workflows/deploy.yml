@@ -1,5 +1,4 @@
-```yaml
-name: Deploy to GitHub Pages
+
 
 on:
   # Run this workflow when code is pushed to the main branch
