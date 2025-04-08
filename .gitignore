@@ -1,5 +1,5 @@
 node_modules/
-.esv
+.env
 # Playwright
 /test-results/
 /playwright-report/
