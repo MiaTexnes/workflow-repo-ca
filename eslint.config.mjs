@@ -7,6 +7,8 @@ export default [
     languageOptions: {
       globals: {
         ...globals.browser,
+        ...globals.node, // Add Node.js globals
+        global: true, // Explicitly add global
         describe: true, // Used for grouping tests
         test: true, // Used to create tests
         it: true, // Alternative way to create tests
