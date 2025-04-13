@@ -26,7 +26,7 @@ The project is a website for browsing and booking venue accommodations, featurin
 1. Clone the repository:
 
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/MiaTexnes/workflow-repo-ca.git]
 cd workflow-repo-ca
 ```
 

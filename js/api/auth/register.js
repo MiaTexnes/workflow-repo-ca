@@ -2,7 +2,7 @@
 import { CONFIG } from "../../config.js";
 
 export async function register(user) {
-  const url = `${CONFIG}auth/register`;
+  const url = `${CONFIG.apiUrl}auth/register`;
 
   const options = {
     method: "POST",
